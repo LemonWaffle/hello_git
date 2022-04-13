@@ -4,3 +4,4 @@ sub2
 master2
 sub3
 eddited git hub
+eddited in git_home
